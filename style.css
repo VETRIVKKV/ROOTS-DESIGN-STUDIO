@@ -1,0 +1,187 @@
+.contact {
+    text-align: right;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 10px;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    background-color: rgb(255, 255, 255);
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid rgb(161, 161, 161);
+    border-radius: 20px;
+}
+.about {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(252, 252, 252);
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+}   
+P2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin: 20px;
+} 
+
+.content {
+    display: flex;
+    flex-direction: row;
+    max-width: 800px;
+    justify-self: center;
+    justify-content: spacspace space-evenly;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+
+}
+p {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 5px;
+
+}
+.trail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 600px;
+    background-color: blueviolet;
+    flex-wrap: wrap;
+
+
+}
+p1 {
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+    
+}
+.boxes {
+    display: flex;
+    flex-direction: row;
+    justify-self: space-around;
+    max-width: 60%;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 20%;
+
+}
+.box1 {
+    width: 250px;
+    height: 250px;
+    background-image: url(images/Vijay\ Builders\,\ Madambakkam.jpg); /* Change path as needed */
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px auto;
+
+
+}
+.box2 {
+    width: 250px;
+    height: 250px;
+    background-image: url(images/1.jpg); /* Change path as needed */
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px auto;
+
+}
+.box3 {
+    width: 250px;
+    height: 250px;
+    background-image: url(images/Sri\ Guru\ Constructions,\ Madambakkam.JPG); /* Change path as needed */
+    background-size: cover;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.about-title {
+    display: flex;
+    flex-direction: row;
+    justify-self: space-evenly;
+    max-width: 60%;
+    flex-wrap: wrap;
+    background-color: rgb(252, 252, 252);
+    position: relative;
+    left: 20%;
+} 
+.about-title1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+       position: relative;
+    left: 9%;
+}
+.about-title2 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+       position: relative;
+    left: 29%;
+}
+.about-title3 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+       position: relative;
+    left: 45%;
+}   
+.about-content {
+    display: flex;
+    flex-direction: row;
+    justify-self: space-around;
+    max-width: 60%;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 20%;
+}   
+.our-mission {
+    width: 250px;
+    height: 120px;
+    background-size: cover;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 255);
+}
+.our-team {
+    width: 250px;
+    height: 120px;
+    background-size: cover;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 255);
+}
+.collaborative-design {
+    width: 250px;
+    height: 120px;
+    background-size: cover;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 255);
+}
